@@ -1,1 +1,16 @@
-/* Write your CSS here */
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.suggestion-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+.arrow {
+  height: 26px;
+  width: 26px;
+}
